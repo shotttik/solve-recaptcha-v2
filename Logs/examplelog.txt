@@ -1,0 +1,5 @@
+INFO � 2023-10-30 18:48:50 � Creating Browser class instance.
+INFO � 2023-10-30 18:48:50 � Configurating Browser.
+INFO � 2023-10-30 18:48:57 � Initializing Captcha Page Class.
+INFO � 2023-10-30 18:48:57 � Solving recaptcha.
+INFO � 2023-10-30 18:48:57 � Switching to default content.
