@@ -5,9 +5,6 @@ import tempfile
 import os
 
 
-CAPTCHA_URL = 'security/check'
-
-
 class CaptchaUtils:
 
     @staticmethod

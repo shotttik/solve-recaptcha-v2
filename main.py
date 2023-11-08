@@ -1,4 +1,3 @@
-from Utils.captcha_utils import CAPTCHA_URL
 from config import config_browser, get_data
 from driver import Browser
 

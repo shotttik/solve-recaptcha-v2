@@ -1,5 +1,7 @@
 # Instructions to run the project
 
+<img src='./Resources//recaptcha.drawio.png'>
+
 ### Install ffmpeg
 
 <a href="https://phoenixnap.com/kb/ffmpeg-windows" target="_blank">Instruction for installing ffpmeg</a>
@@ -53,6 +55,10 @@
 ## RUN PROJECT
 
 > python main.py
+
+OR
+
+> python easy_main.py
 
 # ATTENTION:
 
